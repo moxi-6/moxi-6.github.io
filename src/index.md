@@ -32,4 +32,4 @@
 <a href="essays/index.html"><b>随笔</b><span>学习之外的想法与阶段记录。</span></a>
 </div>
 
-> 内容先在 Notion 中整理，成熟后再发布到这里。
+> 内容会在 Notion 中整理，成熟后发布到这里。
