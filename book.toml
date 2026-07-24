@@ -1,4 +1,35 @@
 [book]
-title = "mdBook"
-authors = []
-language = "en"
+title = "赵开山的学习空间"
+authors = ["赵开山"]
+description = "记录一生一芯、RISC-V、Verilog、C/C++ 与 Linux 的学习过程"
+language = "zh-CN"
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+smart-punctuation = true
+no-section-label = true
+git-repository-url = "https://github.com/moxi-6/moxi-6.github.io"
+edit-url-template = "https://github.com/moxi-6/moxi-6.github.io/edit/main/{path}"
+site-url = "/"
+additional-css = ["theme/custom.css"]
+additional-js = ["theme/custom.js"]
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.search]
+enable = true
+limit-results = 30
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 1
+boost-paragraph = 1
+expand = true
+heading-split-level = 3

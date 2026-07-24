@@ -1,27 +1,34 @@
-# 赵开山的个人网站
+# 赵开山的个人学习网站
 
-你好，我是赵开山。
+这是为 `moxi-6.github.io` 准备的 mdBook 网站源码。
 
-## 关于我
+## 本地预览
 
-我目前正在学习：
+安装 mdBook：
 
-- C/C++
-- RISC-V
-- 一生一芯
-- Verilog
-- 计算机组成原理
+```bash
+cargo install mdbook --version 0.5.4 --locked
+```
 
-## 我的项目
+在仓库根目录运行：
 
-### 一生一芯学习记录
+```bash
+mdbook serve --open
+```
 
-记录我从数字电路、RISC-V处理器到NPC实现的学习过程。
+## 更新内容
 
-### 个人网站
+1. 在 `src/` 中修改或新增 Markdown 文件；
+2. 在 `src/SUMMARY.md` 中添加目录链接；
+3. 提交并推送到 `main`；
+4. GitHub Actions 自动构建并发布。
 
-使用 GitHub Pages 搭建的个人学习网站。
+```bash
+git add .
+git commit -m "更新学习记录"
+git push origin main
+```
 
-## 联系方式
+## 首次发布设置
 
-- GitHub：moxi-6
+进入仓库：`Settings → Pages → Build and deployment → Source`，选择 **GitHub Actions**。
