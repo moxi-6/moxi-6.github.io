@@ -1,27 +1,31 @@
-# 目录
+# Summary
 
-- [首页](README.md)
-- [关于我](about.md)
-- [学习路线](roadmap.md)
+[首页](index.md)
 
-# 一生一芯
+- [我](about/index.md)
+  - [个人经历](about/experience.md)
+  - [我和开发](about/development.md)
 
-- [学习总览](ysyx/README.md)
-  - [E5：Verilator 初体验](ysyx/e5.md)
-  - [F5：数字电路基础](ysyx/f5.md)
-  - [F6：迷你 RISC-V 处理器](ysyx/f6.md)
+- [一生一芯](ysyx/index.md)
+  - [学习进度](ysyx/progress.md)
+  - [E1](ysyx/e1.md)
+  - [E2](ysyx/e2.md)
+  - [E3](ysyx/e3.md)
+  - [E4](ysyx/e4.md)
+  - [E5](ysyx/e5/index.md)
+    - [Verilog 仿真行为与编码风格](ysyx/e5/verilog-simulation.md)
+    - [逻辑综合](ysyx/e5/logic-synthesis.md)
 
-# 项目
+- [开发](development/index.md)
+  - [开发兴趣](development/interests.md)
+  - [网站构建](development/website.md)
 
-- [项目总览](projects/README.md)
-  - [迷你 RISC-V 处理器](projects/minirv.md)
-  - [个人学习网站](projects/website.md)
+- [工具](tools/index.md)
+  - [VPN](tools/vpn.md)
+  - [Codex](tools/codex.md)
+  - [ChatGPT](tools/chatgpt.md)
+  - [电话验证](tools/phone-verification.md)
 
-# 工具与环境
-
-- [工具总览](tools/README.md)
-  - [Linux 常用命令](tools/linux.md)
-  - [Git 与 GitHub](tools/git.md)
-  - [Codex 使用记录](tools/codex.md)
-
-- [更新日志](changelog.md)
+- [随笔](essays/index.md)
+  - [进入 E5 之后](essays/starting-e5.md)
+  - [为什么重写这个网站](essays/rebuild-site.md)
