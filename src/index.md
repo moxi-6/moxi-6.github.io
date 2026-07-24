@@ -2,9 +2,10 @@
 
 <div class="home-lead">
 这里是 Moxi 的个人网站。记录一生一芯学习、开发实践、工具获取，以及学习过程中的随笔。
+
 </div>
 
-<div class="status-line"><span></span>一生一芯 E5 · 学习中</div>
+<div class="status-line"><span></span>当前尚未完善，持续优化中</div>
 
 <div class="home-shortcuts">
 <a href="about/index.html">我</a>
