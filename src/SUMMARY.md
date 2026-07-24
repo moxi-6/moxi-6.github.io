@@ -29,3 +29,4 @@
 - [随笔](essays/index.md)
   - [进入 E5 之后](essays/starting-e5.md)
   - [为什么重写这个网站](essays/rebuild-site.md)
+  - [2026 07](essays/202607.md)
