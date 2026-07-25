@@ -17,7 +17,7 @@
 
 <div class="simple-list">
 <a href="experience.html"><b>个人经历</b><span>学习阶段、已经完成的事情与之后计划。</span></a>
-<a href="development.html"><b>我和开发</b><span>为什么开始，以及我希望如何继续。</span></a>
+<a href="development.html"><b>个人兴趣</b><span>娱乐自己</span></a>
 <a href="../development/index.html"><b>开发记录</b><span>网站构建、坦克动荡和图书管理系统。</span></a>
 </div>
 
