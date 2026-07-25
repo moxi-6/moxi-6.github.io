@@ -5,11 +5,37 @@
 目前已经完成 **E4 之前的任务**，正在进行 **E5**。E1–E4 暂时保留阶段总览；成熟笔记会从 Notion 整理后逐篇发布。
 
 <div class="progress-list">
-<div><b>E1</b><span>已完成</span><p>学习c语言完善基础。</p></div>
-<div><b>E2</b><span>已完成</span><p>学习Verilog 基础模块。</p></div>
-<div><b>E3</b><span>已完成</span><p>建立linux基础开发与编程环境。</p></div>
-<div><b>E4</b><span>已完成</span><p>从C代码到二进制程序。</p></div>
-<div class="current"><b>E5</b><span>学习中</span><p>Verilog、仿真、综合与数字电路实践。</p></div>
+
+<a class="progress-card" href="e1.html">
+<b>E1</b>
+<span>已完成</span>
+<p>学习 C 语言，完善编程基础。</p>
+</a>
+
+<a class="progress-card" href="e2.html">
+<b>E2</b>
+<span>已完成</span>
+<p>学习 Verilog 基础模块。</p>
+</a>
+
+<a class="progress-card" href="e3.html">
+<b>E3</b>
+<span>已完成</span>
+<p>建立 Linux 基础开发与编程环境。</p>
+</a>
+
+<a class="progress-card" href="e4.html">
+<b>E4</b>
+<span>已完成</span>
+<p>理解从 C 代码到二进制程序的过程。</p>
+</a>
+
+<a class="progress-card current" href="e5/index.html">
+<b>E5</b>
+<span>学习中</span>
+<p>Verilog、仿真、综合与数字电路实践。</p>
+</a>
+
 </div>
 
 ## 笔记
